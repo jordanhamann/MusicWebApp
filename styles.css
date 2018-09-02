@@ -1,0 +1,41 @@
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+h1{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+  padding-bottom: 3px;
+  margin: 0;
+}
+
+body{
+  margin: 0;
+}
+
+.Header {
+  background-color: #84bdff;
+  text-align: center;
+}
+
+.menu{
+  background-color: #84bdff;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  border: none;
+  float: left;
+  vertical-align: middle;
+  padding: none;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 5px;
+  margin-right: 5px;
+}
